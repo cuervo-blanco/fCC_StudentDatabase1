@@ -55,3 +55,4 @@ chmod +x insert_data.sh
 delcare -p IFS
 delcare -p IFS
 declare -p IFS
+./insert_data.sh
